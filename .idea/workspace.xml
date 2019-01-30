@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3abbf7e-9030-4e6e-8912-946447c19a3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H4/JavaScript/Opdracht41.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/JavaScript/Opdracht42.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/JavaScript/Opdracht43.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/Opdracht41.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/Opdracht42.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/Opdracht43.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interactief/TigerChooser.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,111 +19,89 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="7" />
-          <entry key="js" value="5" />
+          <entry key="html" value="9" />
+          <entry key="js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="7" />
-          <entry key="JavaScript" value="5" />
+          <entry key="HTML" value="9" />
+          <entry key="JavaScript" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="295" />
-          <entry key="js" value="1229" />
+          <entry key="html" value="342" />
+          <entry key="js" value="1239" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="295" />
-          <entry key="JavaScript" value="1229" />
+          <entry key="HTML" value="342" />
+          <entry key="JavaScript" value="1239" />
           <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-4378140">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="797" />
+          <entry key="js" value="2245" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="797" />
+          <entry key="JavaScript" value="2245" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H3/Opdracht31.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H3/JavaScript/Opdracht31.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H4/Opdracht41.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H4/JavaScript/Opdracht41.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H4/Opdracht42.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="36" />
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="36" />
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H4/JavaScript/Opdracht42.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/H4/Opdracht43.html">
+        <entry file="file://$PROJECT_DIR$/Interactief/TigerChooser.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="340">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/H4/JavaScript/Opdracht43.js">
+        <entry file="file://$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="392">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -136,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -153,8 +128,11 @@
         <option value="$PROJECT_DIR$/H4/Opdracht41.html" />
         <option value="$PROJECT_DIR$/H4/Opdracht42.html" />
         <option value="$PROJECT_DIR$/H4/JavaScript/Opdracht42.js" />
-        <option value="$PROJECT_DIR$/H4/JavaScript/Opdracht43.js" />
         <option value="$PROJECT_DIR$/H4/Opdracht43.html" />
+        <option value="$PROJECT_DIR$/H4/JavaScript/Opdracht43.js" />
+        <option value="$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.html" />
+        <option value="$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.js" />
+        <option value="$PROJECT_DIR$/Interactief/TigerChooser.html" />
       </list>
     </option>
   </component>
@@ -164,12 +142,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="197" />
-    <option name="y" value="162" />
-    <option name="width" value="1349" />
-    <option name="height" value="1020" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="965" />
+    <option name="width" value="922" />
+    <option name="height" value="989" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -179,12 +157,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -213,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Opdracht42.html">
+  <component name="RunManager" selected="JavaScript Debug.TigerChooser.html">
     <configuration name="Opdracht31.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/H3/Opdracht31.html">
       <method v="2" />
     </configuration>
@@ -223,13 +201,23 @@
     <configuration name="Opdracht42.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/H4/Opdracht42.html">
       <method v="2" />
     </configuration>
+    <configuration name="TigerChooser.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/Interactief/TigerChooser.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="TigerChooser.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="TigerChooser.js" working-dir="$PROJECT_DIR$/Interactief/JavaScript">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.Opdracht31.html" />
       <item itemvalue="JavaScript Debug.Opdracht41.html" />
       <item itemvalue="JavaScript Debug.Opdracht42.html" />
+      <item itemvalue="Node.js.TigerChooser.js" />
+      <item itemvalue="JavaScript Debug.TigerChooser.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.TigerChooser.html" />
+        <item itemvalue="Node.js.TigerChooser.js" />
         <item itemvalue="JavaScript Debug.Opdracht42.html" />
         <item itemvalue="JavaScript Debug.Opdracht41.html" />
         <item itemvalue="JavaScript Debug.Opdracht31.html" />
@@ -250,6 +238,10 @@
       <workItem from="1548075293918" duration="2376000" />
       <workItem from="1548143792182" duration="2498000" />
       <workItem from="1548231857800" duration="5948000" />
+      <workItem from="1548315985322" duration="899000" />
+      <workItem from="1548402126563" duration="2483000" />
+      <workItem from="1548748054871" duration="2840000" />
+      <workItem from="1548834982214" duration="5416000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1548076377159</created>
@@ -262,13 +254,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11895000" />
+    <option name="totallyTimeSpent" value="23533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="772" y="0" width="737" height="791" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35838926" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37181208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -335,7 +327,16 @@
     <entry file="file://$PROJECT_DIR$/H4/JavaScript/Opdracht41.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H4/Opdracht42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="36" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="27" />
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -346,26 +347,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/H4/Opdracht42.html">
+    <entry file="file://$PROJECT_DIR$/H4/Opdracht43.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="36" />
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="36" />
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/H4/JavaScript/Opdracht43.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="402">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/H4/Opdracht43.html">
+    <entry file="file://$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/heart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interactief/JavaScript/TigerChooser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interactief/TigerChooser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
